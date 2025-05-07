@@ -1,0 +1,55 @@
+Gianluca Scibilia
+San Francisco, CA, USA | gianluca.scibilia@outlook.com
+Skills Summary
+Technical proficiency
+• Data Science Expertise: proficient in data science tools and models for regression, classification and clustering; skilled in
+using libraries such as Pandas, Numpy, Sklearn, PyTorch, Xgboost, SciPy and familiarity with LLMs.
+• Data Manipulation and Visualization: Tableau, Fluorish, Matplotlib, Plotly, R, SQL, Streamlit
+• Data Management Software: Office suite, Hubspot, and G-Suite, and managing code via Docker, Kubernetes, AWS
+(Sagemaker, S3), and Atlassian tools (Bitbucket, Jira, Confluence); version control with GitHub.
+Professional certifications
+• Innovation and Sustainability Expertise: Certified as a GIMI Certified Innovation Professional (CIP); completed the “Stanford
+Strategies for Sustainability” program to align business strategies with environmental goals.
+• Emerging Technologies and Business Ventures: Attained knowledge in blockchain and digital assets through "MasterZ
+Blockchain and Digital Assets” and participated in “InnoventureLab pre-accelerated startup” to drive Languages: English (Fluent); Italian (Native); Spanish (Basic)
+Professional Experience
+Lead Data Scientist, GlacierGrid, San Francisco, CA December 2022 - Present
+• Developed and deployed a machine learning model to optimize energy consumption and enhance customer comfort, leading
+the full-stack implementation. Managed backend and frontend teams, providing direction on system architecture and
+integration, resulting in a 10% increase in energy savings.
+• Spearheaded research, design, and implementation of two Machine Learning Simulators by incorporating regression-based
+analytics to accurately estimate energy savings for customers, resulting in $60,000 saved in expenses across over 400 client
+locations.
+• Engineered and delivered a Real-Time Control Loop system that optimized the Energy Forecast Algorithm by researching,
+designing, and deploying critical monitoring features, significantly enhancing GlacierGrid core product's forecasting accuracy by ~10x.
+Business Analyst, GlacierGrid, San Francisco, CA October 2021 - December 2022
+• Engineered and executed an automated reporting system integrating AWS S3 and Tableau, achieving a 3x improvement in
+speed and accuracy of data reporting processes.
+• Performed an extensive product analytics audit utilizing Python, Tableau, and SQL, reducing user alerts by 15% and
+facilitated key product enhancements that led to a 22% increase in meaningful alert engagement.
+• Drove delivery of interactive financial and environmental impact models, providing vital data insights on scalable
+environmental impact and financial viability across customer segments, that played a key role in securing $20M Series A funding round.
+Career Development Researcher, Hult Int. Business School, San Francisco, CA March 2021 - August 2021
+• Spearheaded the design and execution of a comprehensive new career platform encompassing over 20 specialized tests,
+leveraging usability testing theories such as task scenario tests, wireframe evaluations, and user interviews, which
+collectively increased user engagement by 10% within 2 months.
+• Conducted rigorous research and analysis on user interaction data for web platforms, applying insights to drive the
+implementation of user-centric features that significantly enhanced average session duration by ~15%.
+• Led an academic study on the market capitalization of multisided platforms, by employing advanced research and data
+analysis to provide actionable insights for industry stakeholders.
+Project Consultant, Golee, Milan, Italy February 2020 - May 2020
+• Developed and rigorously tested new business model for Golee's new digital product designed to stream lower league
+soccer games nationwide, expanding the company’s total serviceable market by 250% and opened new avenues for
+customer growth.
+• Utilized R to conduct in-depth data analysis, effectively pinpointing target customers and evaluating their interest in a new
+product line, guiding strategic marketing decisions and maximizing market penetration.
+Education Master of Science in International Business (specialization in Finance)
+M.S. May 2022
+GPA: 3.87 | Distinctions
+M.S. October 2021
+GPA: 3.93 | Distinctions
+B.S. October 2020
+Master of Science in Business Analytics
+Hult International Business School, San Francisco, CA Hult International Business School, San Francisco, CA
+Bachelor of Science in Business Administration and Management
+Bocconi University, Milan, Italy
