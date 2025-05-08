@@ -64,6 +64,7 @@ client = openai.OpenAI(
     base_url="https://api.groq.com/openai/v1"
 )
 
+context = os.getenv('CONTEXT')
 # Load CV context
 with open("cv.txt", "r") as f:
     cv_context = f.read()
@@ -97,7 +98,7 @@ if prompt := st.chat_input("Ask me anything about my skills, experience, or proj
         response = client.chat.completions.create(
             model="llama-3.3-70b-versatile",
             messages=[
-                {"role": "system", "content": "You are an assistant that answers questions based on Gianluca's resume, GitHub projects, and skills. Only use this information."},
+                {"role": "system", "content": f"{context}"},
                 {"role": "user", "content": full_prompt}
             ],
             temperature=0.5,
